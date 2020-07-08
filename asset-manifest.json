@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FlightSearchApp/static/css/main.45ee8331.chunk.css",
+    "main.js": "/FlightSearchApp/static/js/main.7ee4dcfa.chunk.js",
+    "main.js.map": "/FlightSearchApp/static/js/main.7ee4dcfa.chunk.js.map",
+    "runtime~main.js": "/FlightSearchApp/static/js/runtime~main.541516b4.js",
+    "runtime~main.js.map": "/FlightSearchApp/static/js/runtime~main.541516b4.js.map",
+    "static/js/2.5fdeda63.chunk.js": "/FlightSearchApp/static/js/2.5fdeda63.chunk.js",
+    "static/js/2.5fdeda63.chunk.js.map": "/FlightSearchApp/static/js/2.5fdeda63.chunk.js.map",
+    "static/js/3.95a5ed09.chunk.js": "/FlightSearchApp/static/js/3.95a5ed09.chunk.js",
+    "static/js/3.95a5ed09.chunk.js.map": "/FlightSearchApp/static/js/3.95a5ed09.chunk.js.map",
+    "static/css/4.f5244aec.chunk.css": "/FlightSearchApp/static/css/4.f5244aec.chunk.css",
+    "static/js/4.931c5ca5.chunk.js": "/FlightSearchApp/static/js/4.931c5ca5.chunk.js",
+    "static/js/4.931c5ca5.chunk.js.map": "/FlightSearchApp/static/js/4.931c5ca5.chunk.js.map",
+    "index.html": "/FlightSearchApp/index.html",
+    "precache-manifest.48dfbbfb7c1d75ed7676e48edce6a3fb.js": "/FlightSearchApp/precache-manifest.48dfbbfb7c1d75ed7676e48edce6a3fb.js",
+    "service-worker.js": "/FlightSearchApp/service-worker.js",
+    "static/css/4.f5244aec.chunk.css.map": "/FlightSearchApp/static/css/4.f5244aec.chunk.css.map",
+    "static/css/main.45ee8331.chunk.css.map": "/FlightSearchApp/static/css/main.45ee8331.chunk.css.map",
+    "static/media/airplane.svg": "/FlightSearchApp/static/media/airplane.ece3a8ae.svg"
+  }
+}
